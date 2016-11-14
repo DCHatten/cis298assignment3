@@ -2,7 +2,7 @@
 ## Due 11-14-2016
 ## Author
 
-
+David Hatten
 
 ## Description
 
@@ -66,6 +66,8 @@ Through File System:   app/src/main/res/raw/
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
+
+None
