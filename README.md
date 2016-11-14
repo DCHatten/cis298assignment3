@@ -70,4 +70,4 @@ None
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
-None
+I belive the code is all correct and everything is wired up correctly, but for some reason the list will not display and I ran out of time to debug the issue.
